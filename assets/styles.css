@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
+*:not(h6):not(.myclass){
+  font-family: 'Roboto', sans-serif ;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
